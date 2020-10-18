@@ -1,0 +1,23 @@
+p{
+    color: black;
+    background-color: #b4b4b4;
+    font-weight: bold;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    color: DARKKHAKI;
+    font-family: Arial;
+}
+span{
+    font-size: 25px;
+    border: 3px  dashed;
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
