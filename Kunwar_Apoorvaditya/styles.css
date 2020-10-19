@@ -1,0 +1,23 @@
+h1.logo{
+    border: none;
+    padding: 120px;
+    background-color: lightgoldenrodyellow;
+    text-align: center;  
+}
+header{
+    position: fixed;
+    color: palegoldenrod;
+    background-color: navy;
+}
+.centre{
+
+    text-align: center;
+}
+div.contact{
+    background-color: lightsalmon;
+    padding: lightsalmon 200px;
+    text-decoration: lightseagreen;
+    text-align: center;
+
+
+}
