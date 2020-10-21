@@ -1,0 +1,33 @@
+:root{
+    --dark-background-color: rgb(24, 26, 27);
+    --theme-color: violet;
+}
+
+/* Basic CSS Reset */
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--dark-background-color);
+}
+
+header{
+    margin: 30px 40px;
+}
+
+header h1{
+    padding: 25px;
+    color: whitesmoke;
+
+    text-align: center;
+    font-family: monospace,Arial, Helvetica, sans-serif;
+    font-size: 40px;
+
+    border: 2px solid var(--theme-color);
+    border-radius: 7px;
+}
+
+
+
