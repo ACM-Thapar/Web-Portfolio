@@ -1,12 +1,15 @@
 .jumbotron{
     color: rgb(13,171,221);
+    margin-left: 0;
 }
-.jumbotron {
-    padding: 2rem 1rem;
-    margin-bottom: 0;
-    background-color: argb(0,0,0,10);
-    border-radius: .3rem;
-}
+
 .backgrnd{
-    height: 750px;
+    height: 720px;
+}
+.fa{
+   background-color: white;
+   padding:10px;
+}
+a{
+    text-decoration: none;
 }
