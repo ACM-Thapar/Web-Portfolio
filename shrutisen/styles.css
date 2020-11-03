@@ -1,0 +1,119 @@
+img.a {
+    height: 26em;
+    width: 100%;
+    
+}
+h1.b{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px dashed white;
+    text-align: center;
+    
+
+}
+p.c{
+    background-color: rgba(44, 3, 3, 0.466);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    text-align: center;
+}
+    
+h2.d{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 200%;
+    text-decoration: underline;
+    text-align: center;
+    background-color: rgb(177, 72, 34);
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 0;
+    animation-name: eg2;
+    animation-duration: 4s;
+    animation-iteration-count: infinite
+
+}
+p.e{
+    padding: 0;
+    text-align: center;
+    font-size: 120%;
+    font-family: 'Courier New', Courier, monospace;
+    background-clip: content-box;
+    background-image: url("imgswebp/bgbrown.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    
+
+}
+img.g{
+    position: relative;
+    margin-left: 40%;
+    width: 20%;
+    height: 30%;
+}
+
+p.desc{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    color: white;
+    background-image: url("imgswebp/bgbrown.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h2.blah{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-size: 180%;
+
+}
+
+p.posn{
+    background-color: rgb(61, 33, 25);
+    color: white;
+    background-size: 100% 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    font-weight: bolder;
+    animation-name: eg3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+
+@keyframes eg2{
+    from {background-color:  rgb(61, 33, 25);}
+    to {background-color: rgb(177, 72, 34);}
+}
+
+@keyframes eg3{
+    from {background-color: black;}
+    to {background-color: rgb(61, 33, 25) ;}
+}
+
+h3.z {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 140%;
+    color: white;
+    background-color:rgba(44, 3, 3, 0.466);
+}
+
+input.submit {
+    background-color:rgba(44, 3, 3, 0.466) ;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: dashed;
+    color: white;
+    height: 50px;
+    width: 70px;
+}
